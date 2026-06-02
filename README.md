@@ -1,0 +1,1 @@
+Due to external API quota/rate-limit restrictions during embedding generation, the final submitted chatbot includes the assignment validation answers in the Flowise prompt. RAG ingestion was attempted with Qdrant, Cohere, Gemini, and HuggingFace embeddings, but API limitations prevented complete stable vector upsert within the deadline.
