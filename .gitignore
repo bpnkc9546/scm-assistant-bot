@@ -1,0 +1,5 @@
+.env
+*.env
+api_keys.txt
+node_modules/
+__pycache__/
